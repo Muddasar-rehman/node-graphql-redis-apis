@@ -1,4 +1,4 @@
-GraphQL Services API with Redis Caching
+GraphQL User Authentication Blog and Services API with Redis Caching
 
 A Node.js-based GraphQL API for managing user services with Redis caching and MongoDB as the database. This project includes user authentication, token-based access control, and CRUD operations for services.
 
